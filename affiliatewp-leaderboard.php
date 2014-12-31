@@ -5,7 +5,7 @@
  * Description: Display an affiliate leaderboard on your website
  * Author: Pippin Williamson and Andrew Munro
  * Author URI: http://affiliatewp.com
- * Version: 1.0
+ * Version: 1.0.1
  * Text Domain: affiliatewp-leaderboard
  * Domain Path: languages
  *
@@ -199,7 +199,7 @@ final class AffiliateWP_Leaderboard {
 		$defaults = apply_filters( 'affwp_leaderboard_defaults', 
 			array( 
 				'number'  => isset( $args['number'] ) ? $args['number'] : 10,
-				'orderby' => isset( $args['orderby'] ) ? $args['orderby'] : 'earnings'
+				'orderby' => isset( $args['orderby'] ) ? $args['orderby'] : 'referrals'
 			)
 		);
 
