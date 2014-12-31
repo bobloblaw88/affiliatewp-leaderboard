@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: AffiliateWP - Leaderboard
- * Plugin URI: http://affiliatewp.com/addons/share-purchase-details/
+ * Plugin URI: http://affiliatewp.com/addons/leaderboard/
  * Description: Display an affiliate leaderboard on your website
  * Author: Pippin Williamson and Andrew Munro
  * Author URI: http://affiliatewp.com
