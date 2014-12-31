@@ -74,5 +74,8 @@ OR you can just install it with WordPress by going to Plugins >> Add New >> and 
 
 == Changelog ==
 
+= 1.0.1 =
+* Fix: changed default orderby from "earnings" to "referrals" when no shortcode parameters are used.
+
 = 1.0 =
 * Initial release
