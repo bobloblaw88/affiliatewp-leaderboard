@@ -70,6 +70,10 @@ OR you can just install it with WordPress by going to Plugins >> Add New >> and 
 
 == Screenshots ==
 
+1. The affiliate leaderboard can be a simple list
+1. The affiliate leaderboard can show referrals, earnings and visits
+1. The affiliate leaderboard widget
+
 == Upgrade Notice ==
 
 == Changelog ==
